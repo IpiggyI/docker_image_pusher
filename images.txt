@@ -9,3 +9,5 @@ xhofe/alist:latest
 chenqiyux/lan-clip:latest
 # wewe-rss
 cooderl/wewe-rss-sqlite:latest
+# RustDesk
+rustdesk/rustdesk-server:latest
